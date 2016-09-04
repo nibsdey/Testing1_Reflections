@@ -1,0 +1,18 @@
+It will help in going back in history to see the changes.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+YOu don't want to commit on every file save. That will clutter the commit history.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+It makes it easy to track file changes per feature.
+
+How can you use the commands git log and git diff to view the history of files?
+First use git log to find the commit that you are looking for. Then use git diff <that commit id> <previoud commit id which is below in the log>. The ones in green + are addition and the ones in red - are deletion.
+
+How might using version control make you more confident to make changes that could break something?
+It lets you go back to any of the pevious commits which is helpful in adding changes freely.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Use git-hub
+
+
