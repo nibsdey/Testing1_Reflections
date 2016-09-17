@@ -9,3 +9,9 @@ Move only those files to the staging area which are logically related to be part
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Using branches keeps the work organized by keeping multiple version of work in tact. User can always go back to the branch and resume work.
+
+How do the diagrams help you visualize the branch structure?
+It helps in understanding the fork point where new branches are created and how many commits different etc.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The obvious merges are taken care of by git automatic merging which is great. With always manual merging user has full control on the merging process.
